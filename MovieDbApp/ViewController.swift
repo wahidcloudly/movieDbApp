@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  MovieDbApp
-//
-//  Created by Shah Rahman on 9/8/17.
-//  Copyright © 2017 self. All rights reserved.
-//
 
 import UIKit
 
@@ -17,6 +10,7 @@ class ViewController: UIViewController {
         navigationController?.navigationBar.barTintColor = UIColor(hex: "2D0C5C")
     }
 
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
